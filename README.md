@@ -1,6 +1,6 @@
 # Diabetes-Classification-Techniques
 
-Work IN PROGRESS
+WORK IN PROGRESS
 
 This dataset is a medical record from th following link: https://www.kaggle.com/vincentlugat/pima-indians-diabetes-eda-prediction-0-906/notebook
 
