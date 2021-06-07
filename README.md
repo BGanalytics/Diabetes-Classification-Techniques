@@ -6,7 +6,7 @@ Problem Statement: What are the characteristics that have a major impact on diab
 
 My approach: I am trying a number of classification methods to figure out the best way to categorize patients with high accuracy. 
 
-Results: SVM and Randomforest have been successful in categorization so far. Both methods were OK in classifying the patients based on body mass index and number of pregnancies. However, I believe I can find more suitable methods.  
+Results: SVM and randomForest have been successful in categorization so far. Both methods were OK in classifying the patients based on body mass index and number of pregnancies. However, I believe I can find more suitable methods.  
 
 
 Information about data: 
