@@ -2,6 +2,15 @@
 
 WORK IN PROGRESS
 
+Problem Statement: What are the characteristics that have a major impact on diabetic patients: Age, Number of pregnancies, Body Mass Index,... These findings can help prevention of the desease and identifying people with high risk. 
+
+My approach: I am trying a number of classification methods to figure out the best way to categorize patients with high accuracy. 
+
+Results: SVM and Randomforest have been successful in categorization so far. Both methods were OK in classifying the patients based on body mass index and number of pregnancies. However, I believe I can find more suitable methods.  
+
+
+Information about data: 
+
 This dataset is a medical record from th following link: https://www.kaggle.com/vincentlugat/pima-indians-diabetes-eda-prediction-0-906/notebook
 
 Fields description follow:
@@ -23,4 +32,4 @@ I have done the following steps:
 3. trying out clasification methods Kernel SVM and RandomForest
 
 Results: 
-Both methods were OK in classifying the patients based on body mass index and number of pregnancies. However, I believe I can find more suitable methods. 
+
